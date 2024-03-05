@@ -1,8 +1,4 @@
-/*
-
-Data Cleaning using SQL Queries
-
-*/
+/* Data Cleaning using SQL Queries */
 
 
 Select *
